@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "rps_game",
+  "id": "52af4f27-94e1-42e6-862f-417c80f4d1b5",
+  "version": "2.4.6",
+  "isNew": false
+}

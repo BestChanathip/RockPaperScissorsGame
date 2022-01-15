@@ -1,0 +1,39 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Text_Name",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6666666666666666,
+  "sample": 60,
+  "speed": 0.7,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Label": {
+        "fontSize": [
+          {
+            "frame": 0,
+            "value": 40
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": 45
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": 50
+          },
+          {
+            "frame": 0.5,
+            "value": 45
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": 40
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

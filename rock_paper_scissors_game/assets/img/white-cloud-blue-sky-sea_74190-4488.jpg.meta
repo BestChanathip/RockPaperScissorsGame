@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "8dcc4fce-cf9b-4029-8acb-9ed887bab68d",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 626,
+  "height": 417,
+  "platformSettings": {},
+  "subMetas": {
+    "white-cloud-blue-sky-sea_74190-4488": {
+      "ver": "1.0.6",
+      "uuid": "3c443e6f-3135-4c3c-a78b-9101a1449693",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "8dcc4fce-cf9b-4029-8acb-9ed887bab68d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 626,
+      "height": 417,
+      "rawWidth": 626,
+      "rawHeight": 417,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
